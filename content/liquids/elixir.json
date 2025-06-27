@@ -1,5 +1,5 @@
 name: Elixir
-description: A murky mixture of contaminated water and decaying biomass. Though toxic in its raw form, it can be filtered and refined into a functional industrial coolant or low-grade processing fluid for factories.
+description: Contaminated liquid infused with organic matter. Can be filtered into coolant or used as a base resource in industrial processes.
 boilPoint: 0.5
 color: //TODO
 heatCapacity: 0.3
