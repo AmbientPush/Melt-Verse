@@ -1,0 +1,7 @@
+name: Vesmonium
+description: A slightly charged and flammable material. Used in advanced building, defenses and crafting. //TODO change desc, color and properties
+charge: 0.3
+flammability: 0.3
+explosiveness: 0.2
+radioactivity: 0.7
+color: c5a381
