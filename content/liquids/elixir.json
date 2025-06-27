@@ -1,5 +1,5 @@
 name: Elixir
-description: Contaminated liquid infused with organic matter. Can be filtered into coolant or used as a base resource in industrial processes.
+description: Contaminated water infused with organic matter. Can be filtered into coolant or used as a base resource in industrial processes.
 boilPoint: 0.5
 color: //TODO
 heatCapacity: 0.3
