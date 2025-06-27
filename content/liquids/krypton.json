@@ -1,0 +1,4 @@
+name: Krypton
+description: A colorless, odorless noble gas. Used to create lasers and in plasma reactors.
+//TODO color, properties, better description
+gas: true
