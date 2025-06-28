@@ -1,2 +1,8 @@
 name: Cryogenics
 description: Refined elixir used in high-performance machinery. Essential for advanced factories and effective as a high-efficiency turret coolant.
+color: 82FFFFFF //36F1FFFF, 2ED0DBFF
+explosiveness: 0
+flammability: 0
+heatCapacity: 0.6
+viscosity: 0.5
+temperature: 0.35
