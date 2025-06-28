@@ -1,3 +1,9 @@
 name: Biovoltagen
-description: A semi-biotic, electrically charged gas used extensively in heating, can also act as coolant. //TODO color, properties
+description: A semi-biotic, electrically charged gas used extensively in heating, can also act as coolant.
 gas: true
+color: 66C2FFFF //1A8CFFFF, 66C2FFFF
+explosiveness: 0.1
+flammability: 0.2
+heatCapacity: 0.75
+viscosity: 0.4
+temperature: 0.35
