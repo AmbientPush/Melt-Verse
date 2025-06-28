@@ -1,8 +1,8 @@
 name: Arcalith
-description: Warm fluid extracted from arcanite shards. //TODO
-color: FFB845FF
+description: Warm and energetic fluid made with the use of Arcanite Shards.
+color: FFB845FF //FF9C00FF, DE8900FF
 explosiveness: 0.1
-flammability: 0
+flammability: 0.1
 heatCapacity: 0.4
 viscosity: 0.5
 temperature: 0.35
