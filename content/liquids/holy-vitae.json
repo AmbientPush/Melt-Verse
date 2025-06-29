@@ -1,2 +1,8 @@
 name: Holy Vitae
-description: //TODO descrioption, color, properties
+description: A mix of crystaline materials and water, has suprisingly high healing properties.
+color: FFFFFFFF //E0E0E0FF, C9C9C9FF
+explosiveness: 0
+flammability: 0
+heatCapacity: 0.4
+viscosity: 0.33
+temperature: 0.9
