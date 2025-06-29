@@ -1,2 +1,14 @@
+type: cellLiquid
 name: Plaxicyte
-description: Neoplasia like//TODO description, colorm properties
+description: A byproduct of Plasma Reactors, can spread to other liquids.
+color: FF0052FF //E72563FF, CD146DFF
+explosiveness: 0.25
+flammability: 0.1
+heatCapacity: 0
+viscosity: 0.9
+temperature: 0.75
+
+colorFrom: FF0052FF
+colorTo: CD146DFF
+moveThroughBlocks: true
+spreadTarget: elixir
