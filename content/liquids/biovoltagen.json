@@ -2,11 +2,11 @@ name: Biovoltagen
 description: A semi-biotic, electrically charged gas used extensively in heating, can also act as coolant.
 gas: true
 color: 66C2FFFF //1A8CFFFF, 66C2FFFF
-explosiveness: 0.1
-flammability: 0.2
+explosiveness: 0
+flammability: 0
 heatCapacity: 0.75
 viscosity: 0.4
-temperature: 0.35
+temperature: 0.01
 
 vaporEffect: [
   vapor,
@@ -14,7 +14,7 @@ vaporEffect: [
     type: ParticleEffect
     particles: 5
     colorFrom: 66C2FFFF
-    colorTo: 66C2FFFF
+    colorTo: 66C2FF00
     sizeFrom: 6
     sizeTo: 1
     lifetime: 180
