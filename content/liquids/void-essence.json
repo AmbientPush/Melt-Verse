@@ -1,2 +1,9 @@
 name: Void Essensce
-description: Used in plasma reactors. Very unstable. //TODO color, description, properties
+description: Used in plasma reactors. Very unstable.
+color: CC2929FF //A62121FF, 801919FF
+explosiveness: 0.25
+flammability: 0.5
+heatCapacity: 0
+viscosity: 0
+temperature: 1
+gas: true
