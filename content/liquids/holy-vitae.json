@@ -11,7 +11,7 @@ vaporEffect: [
   vapor
   {
     type: ParticleEffect
-    name: melt-verse-cross
+    region: melt-verse-cross
     particles: 4
     colorFrom: FFFFFFFF
     colorTo: C9C9C900
