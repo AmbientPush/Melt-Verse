@@ -7,3 +7,19 @@ flammability: 0.2
 heatCapacity: 0.75
 viscosity: 0.4
 temperature: 0.35
+
+vaporEffect: [
+  vapor,
+  {
+    type: ParticleEffect
+    particles: 5
+    colorFrom: 66C2FFFF
+    colorTo: 66C2FFFF
+    sizeFrom: 6
+    sizeTo: 1
+    lifetime: 180
+    length: 80
+    interp: pow10Out
+    sizeInterp: pow3
+  }
+]
