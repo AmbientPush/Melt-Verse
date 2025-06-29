@@ -15,13 +15,11 @@ vaporEffect: [
     particles: 5
     colorFrom: 66C2FFFF
     colorTo: 66C2FF00
-    sizeFrom: 1
-    sizeTo: 8
+    sizeFrom: 8
+    sizeTo: 1
     lifetime: 180
     length: 80
     interp: pow10Out
     sizeInterp: pow3
-    cone: 45
-    useRotation: true
   }
 ]
