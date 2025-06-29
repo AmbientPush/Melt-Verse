@@ -9,17 +9,17 @@ viscosity: 0.4
 temperature: 0.01
 
 vaporEffect: [
-  fluxVapor
+  vapor
   {
     type: ParticleEffect
-    particles: 5
+    particles: 4
     colorFrom: 66C2FFFF
     colorTo: 66C2FF00
     sizeFrom: 3
-    sizeTo: 1
-    lifetime: 180
+    sizeTo: 8
+    lifetime: 120
     length: 80
-    interp: pow10Out
-    sizeInterp: pow3
+    interp: pow5Out
+    sizeInterp: pow5Out
   }
 ]
