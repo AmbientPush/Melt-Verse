@@ -6,3 +6,20 @@ flammability: 0
 heatCapacity: 0.4
 viscosity: 0.33
 temperature: 0.9
+
+vaporEffect: [
+  vapor
+  {
+    type: ParticleEffect
+    name: melt-verse-cross
+    particles: 4
+    colorFrom: FFFFFFFF
+    colorTo: C9C9C900
+    sizeFrom: 3
+    sizeTo: 8
+    lifetime: 120
+    length: 80
+    interp: pow5Out
+    sizeInterp: pow5Out
+  }
+]
