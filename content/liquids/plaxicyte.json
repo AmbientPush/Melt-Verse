@@ -6,7 +6,7 @@ explosiveness: 0.25
 flammability: 0.1
 heatCapacity: 0
 viscosity: 0.9
-temperature: 0.75
+temperature: 0.5
 
 colorFrom: FF0052FF
 colorTo: CD146DFF
