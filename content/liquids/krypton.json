@@ -1,6 +1,6 @@
 name: Krypton
 description: A  green, oddorless gas. Used to create lasers.
-color: FFB845FF //FF9C00FF, DE8900FF
+color: 3BAD6BFF //1E8449FF, 247044FF
 explosiveness: 0
 flammability: 0
 heatCapacity: 0.4
