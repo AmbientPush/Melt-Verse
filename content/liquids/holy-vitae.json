@@ -15,8 +15,8 @@ vaporEffect: [
     particles: 4
     colorFrom: FFFFFFFF
     colorTo: C9C9C900
-    sizeFrom: 3
-    sizeTo: 8
+    sizeFrom: 100
+    sizeTo: 80
     lifetime: 120
     length: 80
     interp: pow5Out
