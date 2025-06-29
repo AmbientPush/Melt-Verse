@@ -7,7 +7,7 @@ heatCapacity: 0.4
 viscosity: 0.33
 temperature: 0.9
 
-vaporEffect: [
+puddle: [
   vapor
   {
     type: ParticleEffect
