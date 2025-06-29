@@ -1,8 +1,9 @@
 name: Electorhane
-description: //TODO
+description: Electrically charged methane made from biomass in Biovoltagen.
 color: 7C8895FF //656B72FF, 454C54FF
 explosiveness: 0.4
 flammability: 0.9
 heatCapacity: 0
 viscosity: 0
-temperature: 0
+temperature: 0.4
+gas: true
