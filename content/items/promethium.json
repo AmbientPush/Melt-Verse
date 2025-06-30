@@ -1,2 +1,9 @@
 name: Promethium
-description: "A hard and radioactive material, used in [TODO]." //TODO better description, color, properties (radioactivity: ?)
+description: A rare, high-energy isotope utilized in compact power systems and advanced reactor cores. Promethium emits low-level ionizing radiation and maintains thermal stability under high stress, making it ideal for controlled energy release in fusion-based infrastructure.
+cost: 5
+color: 96B4C8FF //587EA4FF, 304E6BFF
+flammability: 0
+explosiveness: 0
+radioactivity: 1
+charge: 0
+hardness: 3
