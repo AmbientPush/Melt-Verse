@@ -1,7 +1,7 @@
 name: Rhenium
 description: A dense, heat-resistant metal valued for its exceptional stability under extreme temperatures. Rhenium is used in advanced reactor shielding and energy transfer systems where thermal stress is critical. Extraction requires specialized tools due to its hardened deposits.
 cost: 3.5
-color: /*FFB845FF //FF9C00FF, DE8900FF*/
+color: FFF948FF //E6E02EFF, C3BE1EFF
 flammability: 0
 explosiveness: 0
 radioactivity: 0
