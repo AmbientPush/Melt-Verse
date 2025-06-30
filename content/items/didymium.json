@@ -1,2 +1,9 @@
 name: Didymium
-description: "Basic ore, refined into [accent]Neodymium[] and [accent]Praseodymium[]." //TODO desc, color, properties
+description: Basic ore, can be refined into Neodymium and Praseodymium.
+cost: 1
+color: B388FFFF //7C4DFFFF, 5E35B1FF
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+hardness: 1
