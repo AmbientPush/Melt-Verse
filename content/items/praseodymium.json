@@ -1,2 +1,9 @@
 name: Praseodymium
-description: //TODO description, color, properties
+description: The most basic material, used in practically every building. Extracted from Didymium.
+cost: 1
+color: 58D68DFF //3BAD6BFF, 1E8449FF
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+hardness: 1
