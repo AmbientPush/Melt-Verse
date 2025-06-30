@@ -1,10 +1,9 @@
-type: item
 name: Arcanite
-description: Common ore that has high electric and electromagnetic capabilities, is used for blocks that conduct electricity. //TODO change desc, color and properties
-cost: 2
-color: b86a2e
+description: Common material, has high electric and electromagnetic capabilities. Is used to construct buildings reletad to electricity.
+cost: 2.5
+color: FFB845FF //FF9C00FF, DE8900FF
 flammability: 0
 explosiveness: 0
-radioactivity: 0
-charge: 0.5
+radioactivity: 0.05
+charge: 0.75
 hardness: 1
