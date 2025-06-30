@@ -1,6 +1,6 @@
 name: Neodymium
 description: The most basic refined material, used in practically every building. Extracted from Didymium.
-cost: 1.25
+cost: 1
 color: FF88FCFF //F34DFFFF, B135B1FF
 flammability: 0
 explosiveness: 0
