@@ -1,2 +1,9 @@
 name: Neodymium
-description: //TODO make descripton, add properties and color
+description: The most basic material, used in practically every building. Extracted from Didymium.
+cost: 1.25
+color: FF88FCFF //F34DFFFF, B135B1FF
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+hardness: 1
