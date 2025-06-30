@@ -7,3 +7,19 @@ heatCapacity: 0
 viscosity: 0
 temperature: 1
 gas: true
+
+vaporEffect: [
+  vapor
+  {
+    type: ParticleEffect
+    particles: 4
+    colorFrom: CC2929FF
+    colorTo: 80191900
+    sizeFrom: 3
+    sizeTo: 8
+    lifetime: 120
+    length: 80
+    interp: pow5Out
+    sizeInterp: pow5Out
+  }
+]
