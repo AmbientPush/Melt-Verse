@@ -1,0 +1,8 @@
+description: Allows transporting items over terrain and structures.
+type: ItemBridge
+name: Neodymium bridge
+health: 80
+range: 5
+transportTime: 8
+requirements: [ neodymium/10 ]
+researchCost: [ neodymium/25 ]
