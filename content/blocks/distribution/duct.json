@@ -1,10 +1,10 @@
 description: Moves items forwards at a fast pace.
 type: Duct
 health: 150
-speed: 0.10
+speed: 4
 //displayedSpeed: 14
 //junctionReplacement: 
-//bridgeReplacement: 
+bridgeReplacement: neodymium-bridge
 requirements: [ neodymium/1 ]
 category: distribution
 //researchCost: [ magnesium/500, biosteel/250 ]
