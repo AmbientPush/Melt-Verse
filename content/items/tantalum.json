@@ -1,2 +1,9 @@
 name: Tantalum
-description: //TODO desc,  color, properties
+description: In its raw state, it resists corrosion and heat to an unnatural degree - able to survive conditions that melt most alloys. Its surface carries a subtle electromagnetic pulse, and it’s often used in energy conduits, phase capacitors, and shielding for unstable reactors. Tantalum's unique atomic structure allows it to interface with both machine and bio-circuitry, making it a critical material in cybernetic implants and adaptive AI cores. However, overuse in Melt Verse tech has shown signs of feedback corruption, leading to spontaneous overloads or neural decay in connected systems.
+cost: 2.5
+color: 84639EFF //613E7EFF, 351E59FF
+flammability: 0
+explosiveness: 0
+radioactivity: 0.05
+charge: 0.1
+hardness: 3
