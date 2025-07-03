@@ -1,0 +1,9 @@
+name: Barite
+description: Barite is a very unstable radioactive mineral emitting levels of radiation over five times that of Radium. Exposure can corrode metal structures, disable internal circuitry, and cause irreversible corruption in AI code. Despite its danger, Barite is a core component in advanced unit design, weapons tech, and defensive systems. Refined carefully, it becomes a key precursor in the synthesis of Vesmonium.
+cost: 5
+color: 61F2C2FF //00DEA9FF, 0A805FFF
+flammability: 0
+explosiveness: 0.2
+radioactivity: 1.5
+charge: 0.1
+hardness: 4
