@@ -1,7 +1,9 @@
 name: Vesmonium
-description: A slightly charged and flammable material. Used in advanced building, defenses and crafting. //TODO change desc, color and properties
-charge: 0.3
-flammability: 0.3
-explosiveness: 0.2
-radioactivity: 0.7
-color: c5a381
+description: Vesmonium is a synthesized compound derived from Liquid Barite, processed under high pressure and stabilized with trace Void Essence. Highly reactive and extremely efficient, Vesmonium forms the basis for advanced energy weapons and high-tier armor alloys. In raw form, it's crystalline and pulses with internal light—but even stabilized Vesmonium emits a faint hum and soft radiation haze, making extended exposure dangerous.
+cost: 5
+color: FFB845FF //FF9C00FF, DE8900FF //TODO
+flammability: 0
+explosiveness: 0
+radioactivity: 0.95
+charge: 0.75
+hardness: 0
