@@ -1,0 +1,8 @@
+name:
+description: This viscous fluid is in constant flux—melting nearby materials while emitting waves of destructive energy. Its high energy density makes it valuable for field-reactors and hybrid weapon cores, but any unshielded exposure will rapidly degrade both tech and tissue.
+color: FFB845FF //FF9C00FF, DE8900FF //TODO
+explosiveness: 0.5
+flammability: 0
+heatCapacity: 0
+viscosity: 0.75
+temperature: 0.75
